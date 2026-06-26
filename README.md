@@ -77,7 +77,7 @@ Alur Eksekusi Notebook:
 - Inference.ipynb: Menggunakan model terbaik yang telah disimpan (berformat .keras) untuk melakukan prediksi pada teks sentimen baru.
 
 ## Struktur Direktori
-
+```Bash
 ├── data/                    # Berisi dataset mentah dan dataset yang telah diproses
 ├── models/                  # Direktori penyimpanan model (.keras), tokenizer, dan vectorizer
 ├── reports/                 # Hasil inferensi dan log evaluasi (.json, .csv)
@@ -88,3 +88,4 @@ Alur Eksekusi Notebook:
 ├── Skenario_3...            # Skema 3
 ├── Inference.ipynb          # Implementasi model untuk prediksi
 └── requirements.txt         # Daftar *dependencies*
+```
