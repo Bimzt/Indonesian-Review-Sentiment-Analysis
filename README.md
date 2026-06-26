@@ -64,7 +64,7 @@ Skema 2 (BiLSTM + Word2Vec) menunjukkan performa generalisasi terbaik pada data 
 2. **Instal pustaka yang dibutuhkan:**
 Sangat disarankan menggunakan virtual environment.
    ```Bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 Alur Eksekusi Notebook:
