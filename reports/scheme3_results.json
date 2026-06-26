@@ -1,0 +1,9 @@
+{
+  "scheme": "Skema 3",
+  "algorithm": "CNN-LSTM",
+  "feature": "Embedding Layer",
+  "split": "70/30",
+  "train_acc": 97.49,
+  "test_acc": 87.89,
+  "f1_macro": 87.77
+}

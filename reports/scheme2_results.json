@@ -1,0 +1,9 @@
+{
+  "scheme": "Skema 2",
+  "algorithm": "BiLSTM",
+  "feature": "Word2Vec",
+  "split": "80/20",
+  "train_acc": 92.47,
+  "test_acc": 88.37,
+  "f1_macro": 88.34
+}

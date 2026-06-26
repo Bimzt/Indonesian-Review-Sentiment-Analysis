@@ -1,0 +1,9 @@
+{
+  "scheme": "Skema 1",
+  "algorithm": "LSTM",
+  "feature": "TF-IDF",
+  "split": "80/20",
+  "train_acc": 97.5,
+  "test_acc": 86.0,
+  "f1_macro": 85.85
+}
